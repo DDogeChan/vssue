@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "vuepress dev posts",
+    "build": "vuepress build posts"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.39"
+  },
+  "devDependencies": {
+    "vuepress-theme-simple": "^0.5.0",
+    "vuepress-plugin-permalink-pinyin": "^1.0.0",
+    "vuepress-plugin-sitemap": "^2.1.1"
+  }
+}
